@@ -72,5 +72,5 @@ client.on('ready', () => {
   /*client.user.setActivity(`Twistters for updates`, { type: 'WATCHING' });*/
 });
 
-client.login("NDcxNDI3OTA4MzkzNTAwNjcz.DjnRNQ.GhMgMMyxPPdW9mYcwexjGKaD8Ec");
+client.login("NDcxNDI3OTA4MzkzNTAwNjcz.DjndoA.D3OrtpXzbGPvtfJCuTKS6TAH-Yg");
 
